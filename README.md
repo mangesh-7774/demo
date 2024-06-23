@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Author - Mangesh Bhalerao
+Author - Mangesh prakash Bhalerao
